@@ -1,6 +1,14 @@
 public class Main {
     public static void main(String[] args) {
-        // 123123123
-        System.out.println("Hello world!");
+        // byte < short < int < long < float < double
+
+
+
+        // +=
+        int a = 10;
+        int b = 20;
+        a-=b;
+        System.out.println(a);
+        System.out.println(b);
     }
 }

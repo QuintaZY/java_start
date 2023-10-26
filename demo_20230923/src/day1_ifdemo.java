@@ -4,7 +4,7 @@ public class day1_ifdemo {
         System.out.println("请输入");
         int wine = sc.nextInt();
         if(wine > 2 ) {
-            System.out.println("好");
+            System.out.println("好"); 
         };*/
         //for (int i = 0; i < 10; i++) {
         //    System.out.println("123");

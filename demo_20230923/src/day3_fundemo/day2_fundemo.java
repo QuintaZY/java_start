@@ -1,3 +1,5 @@
+package day3_fundemo;
+
 public class day2_fundemo {
     public static void main(String[] args) {
 //        方法定义和调用

@@ -1,3 +1,5 @@
+package day02_array;
+
 public class day2_arraydemo {
     public static void main(String[] args) {
         int[] arr1 = new int[]{11, 12, 13, 14};

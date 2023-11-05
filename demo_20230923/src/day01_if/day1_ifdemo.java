@@ -1,3 +1,5 @@
+package day01_if;
+
 public class day1_ifdemo {
     public static void main(String[] args) {
         /*Scanner sc = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package day16_Wrapper.math;
+package day16_Wrapper.math_04;
 
 /**
  * @version 1.0

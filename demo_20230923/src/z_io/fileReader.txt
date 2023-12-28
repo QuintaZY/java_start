@@ -1,0 +1,15 @@
+package day22_IO;
+import org.junit.jupiter.api.Test;
+/**
+ * @version 1.0
+ * @auther zhangyx
+ */
+public class IO_05_fileReader {
+    public static void main(String[] args) {
+        // 1 new FileReader()
+        // read 每次读取单个字符，返回该字符， 如果到末尾返回-1
+    }
+    @Test
+    public void reader() {
+    }
+}
